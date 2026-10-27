@@ -1,0 +1,10 @@
+Run 1 | HTTP 200 | Latency 0.708136s
+Run 2 | HTTP 200 | Latency 0.403636s
+Run 3 | HTTP 200 | Latency 0.410630s
+Run 4 | HTTP 200 | Latency 0.419200s
+Run 5 | HTTP 200 | Latency 0.422643s
+Run 6 | HTTP 200 | Latency 0.432334s
+Run 7 | HTTP 200 | Latency 0.437278s
+Run 8 | HTTP 200 | Latency 0.443088s
+Run 9 | HTTP 200 | Latency 0.448354s
+Run 10 | HTTP 200 | Latency 0.433513s

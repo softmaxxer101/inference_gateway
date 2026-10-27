@@ -1,0 +1,5 @@
+Successful measurements recorded: 10
+Average latency: 0.4559 s
+Median latency:  0.4329 s
+Minimum latency: 0.4036 s
+Maximum latency: 0.7081 s

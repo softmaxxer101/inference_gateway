@@ -1,0 +1,6 @@
+{"ts": 1793124679.6577947, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.0003, "service_s": 0.016, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793124679.6622856, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.0068, "service_s": 0.0015, "waiting_at_exit": 3, "active_at_exit": 1}
+{"ts": 1793124679.6639044, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.0086, "service_s": 0.0012, "waiting_at_exit": 2, "active_at_exit": 1}
+{"ts": 1793124679.6652265, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.01, "service_s": 0.001, "waiting_at_exit": 1, "active_at_exit": 1}
+{"ts": 1793124679.6682658, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.0113, "service_s": 0.0027, "waiting_at_exit": 0, "active_at_exit": 1}
+{"ts": 1793125722.8867824, "outcome": "upstream_timeout", "status": 504, "queue_wait_s": 0.0002, "service_s": 0.0022, "waiting_at_exit": 0, "active_at_exit": 1}
