@@ -1,0 +1,150 @@
+{"ts": 1793452910.157412, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1590967, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1606877, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0036, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1611164, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.004, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1613805, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0041, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1616142, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0021, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1618195, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0023, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1620505, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0024, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.162234, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0025, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1624076, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0026, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.162589, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0027, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1628926, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1631646, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.1634188, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.164063, "outcome": "queue_full", "status": 429, "queue_wait_s": 0.0001, "service_s": 0.0, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452910.6902313, "outcome": "ok", "status": 200, "queue_wait_s": 0.0007, "service_s": 0.5344, "waiting_at_exit": 4, "active_at_exit": 1}
+{"ts": 1793452911.1456509, "outcome": "ok", "status": 200, "queue_wait_s": 0.534, "service_s": 0.4548, "waiting_at_exit": 3, "active_at_exit": 1}
+{"ts": 1793452911.5177646, "outcome": "ok", "status": 200, "queue_wait_s": 0.9892, "service_s": 0.3715, "waiting_at_exit": 2, "active_at_exit": 1}
+{"ts": 1793452911.9915464, "outcome": "ok", "status": 200, "queue_wait_s": 1.3616, "service_s": 0.4727, "waiting_at_exit": 1, "active_at_exit": 1}
+{"ts": 1793452912.4331076, "outcome": "ok", "status": 200, "queue_wait_s": 1.8352, "service_s": 0.4405, "waiting_at_exit": 0, "active_at_exit": 1}
+{"timestamp": 1793467998.8440118, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 9.2e-05, "service_time": 0.0, "total_latency": 9.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.8462162, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 6.1e-05, "service_time": 0.0, "total_latency": 6.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.8466327, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4.1e-05, "service_time": 0.0, "total_latency": 4.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.8469996, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4.1e-05, "service_time": 0.0, "total_latency": 4.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.847383, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.6e-05, "service_time": 0.0, "total_latency": 3.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.8477192, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.2e-05, "service_time": 0.0, "total_latency": 3.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.8480487, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.2e-05, "service_time": 0.0, "total_latency": 3.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.848347, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.7e-05, "service_time": 0.0, "total_latency": 3.7e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467998.848667, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.1e-05, "service_time": 0.0, "total_latency": 3.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793467999.3905246, "outcome": "ok", "status": 200, "queue_wait": 0.001584, "service_time": 0.564501, "total_latency": 0.566086, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793469180.7926674, "outcome": "queue_full", "status": 429, "queue_wait": 0.000921, "service_time": 0.0, "total_latency": 0.000921, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469180.7938766, "outcome": "queue_full", "status": 429, "queue_wait": 0.002065, "service_time": 0.0, "total_latency": 0.002065, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469180.7942467, "outcome": "queue_full", "status": 429, "queue_wait": 3.5e-05, "service_time": 0.0, "total_latency": 3.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469180.7946498, "outcome": "queue_full", "status": 429, "queue_wait": 3.2e-05, "service_time": 0.0, "total_latency": 3.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469180.7949739, "outcome": "queue_full", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469181.3701084, "outcome": "ok", "status": 200, "queue_wait": 0.000723, "service_time": 0.58139, "total_latency": 0.582113, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469181.6731253, "outcome": "ok", "status": 200, "queue_wait": 0.579473, "service_time": 0.3026, "total_latency": 0.882073, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469182.067086, "outcome": "ok", "status": 200, "queue_wait": 0.882373, "service_time": 0.393538, "total_latency": 1.275911, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469182.4953167, "outcome": "ok", "status": 200, "queue_wait": 1.276218, "service_time": 0.42785, "total_latency": 1.704068, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469182.6974685, "outcome": "ok", "status": 200, "queue_wait": 1.704439, "service_time": 0.20171, "total_latency": 1.906149, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469192.4414055, "outcome": "queue_full", "status": 429, "queue_wait": 0.000416, "service_time": 0.0, "total_latency": 0.000416, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469192.441689, "outcome": "queue_full", "status": 429, "queue_wait": 0.000678, "service_time": 0.0, "total_latency": 0.000678, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469192.4419298, "outcome": "queue_full", "status": 429, "queue_wait": 2.3e-05, "service_time": 0.0, "total_latency": 2.3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469192.4421244, "outcome": "queue_full", "status": 429, "queue_wait": 1.9e-05, "service_time": 0.0, "total_latency": 1.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469192.4422636, "outcome": "queue_full", "status": 429, "queue_wait": 0.001637, "service_time": 0.0, "total_latency": 0.001637, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793469192.9628131, "outcome": "ok", "status": 200, "queue_wait": 0.000339, "service_time": 0.521703, "total_latency": 0.522042, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469193.227382, "outcome": "ok", "status": 200, "queue_wait": 0.522383, "service_time": 0.264198, "total_latency": 0.786581, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469193.5211396, "outcome": "ok", "status": 200, "queue_wait": 0.786869, "service_time": 0.293435, "total_latency": 1.080304, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469193.8698876, "outcome": "ok", "status": 200, "queue_wait": 1.080563, "service_time": 0.348467, "total_latency": 1.42903, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793469194.207051, "outcome": "ok", "status": 200, "queue_wait": 1.429973, "service_time": 0.336198, "total_latency": 1.766171, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793513923.7552197, "outcome": "queue_full", "status": 429, "queue_wait": 1.5e-05, "service_time": 0.0, "total_latency": 1.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513923.7567677, "outcome": "queue_full", "status": 429, "queue_wait": 6.1e-05, "service_time": 0.0, "total_latency": 6.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513923.7571454, "outcome": "queue_full", "status": 429, "queue_wait": 2.6e-05, "service_time": 0.0, "total_latency": 2.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513923.7575827, "outcome": "queue_full", "status": 429, "queue_wait": 2.7e-05, "service_time": 0.0, "total_latency": 2.7e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513923.7578566, "outcome": "queue_full", "status": 429, "queue_wait": 2.2e-05, "service_time": 0.0, "total_latency": 2.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513924.16889, "outcome": "ok", "status": 200, "queue_wait": 0.001012, "service_time": 0.426558, "total_latency": 0.42757, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513924.5296187, "outcome": "ok", "status": 200, "queue_wait": 0.414421, "service_time": 0.360249, "total_latency": 0.77467, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513924.8402958, "outcome": "ok", "status": 200, "queue_wait": 0.774911, "service_time": 0.310339, "total_latency": 1.085251, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513925.233361, "outcome": "ok", "status": 200, "queue_wait": 1.085538, "service_time": 0.39271, "total_latency": 1.478248, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513925.683563, "outcome": "ok", "status": 200, "queue_wait": 1.478554, "service_time": 0.449845, "total_latency": 1.928399, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513986.8762698, "outcome": "queue_full", "status": 429, "queue_wait": 0.000307, "service_time": 0.0, "total_latency": 0.000307, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513986.8771675, "outcome": "queue_full", "status": 429, "queue_wait": 0.002266, "service_time": 0.0, "total_latency": 0.002266, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513986.8774807, "outcome": "queue_full", "status": 429, "queue_wait": 0.002518, "service_time": 0.0, "total_latency": 0.002518, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513986.8777149, "outcome": "queue_full", "status": 429, "queue_wait": 0.00271, "service_time": 0.0, "total_latency": 0.00271, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513986.8779223, "outcome": "queue_full", "status": 429, "queue_wait": 0.002887, "service_time": 0.0, "total_latency": 0.002887, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793513987.3715842, "outcome": "ok", "status": 200, "queue_wait": 0.000322, "service_time": 0.496398, "total_latency": 0.496719, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793513987.5443769, "outcome": "ok", "status": 200, "queue_wait": 0.497386, "service_time": 0.172295, "total_latency": 0.669681, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793513987.817235, "outcome": "ok", "status": 200, "queue_wait": 0.669125, "service_time": 0.272262, "total_latency": 0.941387, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793513988.1133308, "outcome": "ok", "status": 200, "queue_wait": 0.941711, "service_time": 0.295728, "total_latency": 1.237439, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793513988.494157, "outcome": "ok", "status": 200, "queue_wait": 1.237832, "service_time": 0.380392, "total_latency": 1.618224, "sla_budget_ms": 10000, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6179752, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.5e-05, "service_time": 0.0, "total_latency": 2.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6191695, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.9e-05, "service_time": 0.0, "total_latency": 3.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6194959, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.1e-05, "service_time": 0.0, "total_latency": 3.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6201367, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.4e-05, "service_time": 0.0, "total_latency": 3.4e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6204298, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.4e-05, "service_time": 0.0, "total_latency": 3.4e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6206992, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.6221302, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.000118, "service_time": 0.0, "total_latency": 0.000118, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514363.622539, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4e-05, "service_time": 0.0, "total_latency": 4e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793514364.180341, "outcome": "ok", "status": 200, "queue_wait": 0.000419, "service_time": 0.563739, "total_latency": 0.564158, "sla_budget_ms": 1000, "predicted_completion_ms": null}
+{"timestamp": 1793514364.4506035, "outcome": "ok", "status": 200, "queue_wait": 0.562848, "service_time": 0.269892, "total_latency": 0.83274, "sla_budget_ms": 1000, "predicted_completion_ms": null}
+{"timestamp": 1793515869.8407369, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4.6e-05, "service_time": 0.0, "total_latency": 4.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.84297, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 5.1e-05, "service_time": 0.0, "total_latency": 5.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.8433628, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.4e-05, "service_time": 0.0, "total_latency": 3.4e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.843671, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3e-05, "service_time": 0.0, "total_latency": 3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.8439481, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3e-05, "service_time": 0.0, "total_latency": 3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.844214, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.8e-05, "service_time": 0.0, "total_latency": 2.8e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.8444815, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.1e-05, "service_time": 0.0, "total_latency": 3.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515869.845463, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.000675, "service_time": 0.0, "total_latency": 0.000675, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793515870.4112482, "outcome": "ok", "status": 200, "queue_wait": 0.001254, "service_time": 0.573645, "total_latency": 0.574899, "sla_budget_ms": 1000, "predicted_completion_ms": null}
+{"timestamp": 1793515870.659046, "outcome": "ok", "status": 200, "queue_wait": 0.571153, "service_time": 0.247412, "total_latency": 0.818566, "sla_budget_ms": 1000, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5247252, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.2e-05, "service_time": 0.0, "total_latency": 2.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5257952, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.000102, "service_time": 0.0, "total_latency": 0.000102, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5261664, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3e-05, "service_time": 0.0, "total_latency": 3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5267453, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3e-05, "service_time": 0.0, "total_latency": 3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.527036, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5272908, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.8e-05, "service_time": 0.0, "total_latency": 2.8e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517418.5275223, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.5e-05, "service_time": 0.0, "total_latency": 2.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793517419.0669656, "outcome": "ok", "status": 200, "queue_wait": 0.000606, "service_time": 0.544183, "total_latency": 0.54479, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793517419.5459461, "outcome": "ok", "status": 200, "queue_wait": 0.542942, "service_time": 0.478519, "total_latency": 1.021462, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793517419.8341825, "outcome": "ok", "status": 200, "queue_wait": 1.021766, "service_time": 0.287784, "total_latency": 1.30955, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793519564.7470455, "outcome": "queue_full", "status": 429, "queue_wait": 2.6e-05, "service_time": 0.0, "total_latency": 2.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793519564.7518976, "outcome": "queue_full", "status": 429, "queue_wait": 4.5e-05, "service_time": 0.0, "total_latency": 4.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793519564.752384, "outcome": "queue_full", "status": 429, "queue_wait": 3.9e-05, "service_time": 0.0, "total_latency": 3.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793519564.7538078, "outcome": "queue_full", "status": 429, "queue_wait": 4.3e-05, "service_time": 0.0, "total_latency": 4.3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793519564.7579825, "outcome": "queue_full", "status": 429, "queue_wait": 7.5e-05, "service_time": 0.0, "total_latency": 7.5e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793519565.4473758, "outcome": "ok", "status": 200, "queue_wait": 0.003161, "service_time": 0.727428, "total_latency": 0.730589, "sla_budget_ms": 5000, "predicted_completion_ms": null}
+{"timestamp": 1793519565.6602185, "outcome": "ok", "status": 200, "queue_wait": 0.716949, "service_time": 0.212315, "total_latency": 0.929264, "sla_budget_ms": 5000, "predicted_completion_ms": null}
+{"timestamp": 1793519565.9979677, "outcome": "ok", "status": 200, "queue_wait": 0.92943, "service_time": 0.337278, "total_latency": 1.266708, "sla_budget_ms": 5000, "predicted_completion_ms": null}
+{"timestamp": 1793519566.5635612, "outcome": "ok", "status": 200, "queue_wait": 1.267138, "service_time": 0.564995, "total_latency": 1.832134, "sla_budget_ms": 5000, "predicted_completion_ms": null}
+{"timestamp": 1793519566.9045062, "outcome": "ok", "status": 200, "queue_wait": 1.817312, "service_time": 0.34042, "total_latency": 2.157732, "sla_budget_ms": 5000, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0300255, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4.6e-05, "service_time": 0.0, "total_latency": 4.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0316482, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 4.3e-05, "service_time": 0.0, "total_latency": 4.3e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0330255, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.001057, "service_time": 0.0, "total_latency": 0.001057, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.033359, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.001326, "service_time": 0.0, "total_latency": 0.001326, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0336537, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 3.2e-05, "service_time": 0.0, "total_latency": 3.2e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0339305, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.0342016, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521676.4248347, "outcome": "ok", "status": 200, "queue_wait": 0.001102, "service_time": 0.39916, "total_latency": 0.400262, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793521676.6278172, "outcome": "ok", "status": 200, "queue_wait": 0.395555, "service_time": 0.202534, "total_latency": 0.598089, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793521676.821597, "outcome": "ok", "status": 200, "queue_wait": 0.598358, "service_time": 0.193371, "total_latency": 0.79173, "sla_budget_ms": 2000, "predicted_completion_ms": null}
+{"timestamp": 1793521742.8494928, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.000587, "service_time": 0.0, "total_latency": 0.000587, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521742.8500948, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.00115, "service_time": 0.0, "total_latency": 0.00115, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521742.8503294, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.001294, "service_time": 0.0, "total_latency": 0.001294, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521742.850525, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.001459, "service_time": 0.0, "total_latency": 0.001459, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521742.8506937, "outcome": "predicted_sla_miss", "status": 429, "queue_wait": 0.001591, "service_time": 0.0, "total_latency": 0.001591, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521743.3267105, "outcome": "ok", "status": 200, "queue_wait": 0.000302, "service_time": 0.479219, "total_latency": 0.479522, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793521743.5709941, "outcome": "ok", "status": 200, "queue_wait": 0.478929, "service_time": 0.243797, "total_latency": 0.722727, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793521743.7217262, "outcome": "ok", "status": 200, "queue_wait": 0.722996, "service_time": 0.150368, "total_latency": 0.873364, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793521744.0276928, "outcome": "ok", "status": 200, "queue_wait": 0.873392, "service_time": 0.305513, "total_latency": 1.178905, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793521744.2706344, "outcome": "ok", "status": 200, "queue_wait": 1.179233, "service_time": 0.242539, "total_latency": 1.421772, "sla_budget_ms": 3000, "predicted_completion_ms": null}
+{"timestamp": 1793521812.299366, "outcome": "queue_full", "status": 429, "queue_wait": 0.000455, "service_time": 0.0, "total_latency": 0.000455, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521812.2999382, "outcome": "queue_full", "status": 429, "queue_wait": 0.000989, "service_time": 0.0, "total_latency": 0.000989, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521812.3001893, "outcome": "queue_full", "status": 429, "queue_wait": 0.001211, "service_time": 0.0, "total_latency": 0.001211, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521812.3004415, "outcome": "queue_full", "status": 429, "queue_wait": 0.001438, "service_time": 0.0, "total_latency": 0.001438, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521812.3007338, "outcome": "queue_full", "status": 429, "queue_wait": 2.6e-05, "service_time": 0.0, "total_latency": 2.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793521812.7712994, "outcome": "ok", "status": 200, "queue_wait": 0.000264, "service_time": 0.47375, "total_latency": 0.474014, "sla_budget_ms": 4000, "predicted_completion_ms": null}
+{"timestamp": 1793521813.0183396, "outcome": "ok", "status": 200, "queue_wait": 0.473977, "service_time": 0.246025, "total_latency": 0.720003, "sla_budget_ms": 4000, "predicted_completion_ms": null}
+{"timestamp": 1793521813.2515054, "outcome": "ok", "status": 200, "queue_wait": 0.720764, "service_time": 0.232301, "total_latency": 0.953065, "sla_budget_ms": 4000, "predicted_completion_ms": null}
+{"timestamp": 1793521813.502384, "outcome": "ok", "status": 200, "queue_wait": 0.953513, "service_time": 0.250245, "total_latency": 1.203758, "sla_budget_ms": 4000, "predicted_completion_ms": null}
+{"timestamp": 1793521813.8195624, "outcome": "ok", "status": 200, "queue_wait": 1.204101, "service_time": 0.316798, "total_latency": 1.520899, "sla_budget_ms": 4000, "predicted_completion_ms": null}
+{"timestamp": 1793522477.678275, "outcome": "queue_full", "status": 429, "queue_wait": 5.1e-05, "service_time": 0.0, "total_latency": 5.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793522477.679434, "outcome": "queue_full", "status": 429, "queue_wait": 8.6e-05, "service_time": 0.0, "total_latency": 8.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793522477.6797953, "outcome": "queue_full", "status": 429, "queue_wait": 3.1e-05, "service_time": 0.0, "total_latency": 3.1e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793522477.6800978, "outcome": "queue_full", "status": 429, "queue_wait": 2.9e-05, "service_time": 0.0, "total_latency": 2.9e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793522477.680369, "outcome": "queue_full", "status": 429, "queue_wait": 2.6e-05, "service_time": 0.0, "total_latency": 2.6e-05, "sla_budget_ms": null, "predicted_completion_ms": null}
+{"timestamp": 1793522478.184355, "outcome": "ok", "status": 200, "queue_wait": 0.000709, "service_time": 0.50833, "total_latency": 0.50904, "sla_budget_ms": 6000, "predicted_completion_ms": null}
+{"timestamp": 1793522478.392723, "outcome": "ok", "status": 200, "queue_wait": 0.507279, "service_time": 0.207924, "total_latency": 0.715204, "sla_budget_ms": 6000, "predicted_completion_ms": null}
+{"timestamp": 1793522478.681086, "outcome": "ok", "status": 200, "queue_wait": 0.715465, "service_time": 0.287973, "total_latency": 1.003438, "sla_budget_ms": 6000, "predicted_completion_ms": null}
+{"timestamp": 1793522479.1169508, "outcome": "ok", "status": 200, "queue_wait": 1.003745, "service_time": 0.43548, "total_latency": 1.439225, "sla_budget_ms": 6000, "predicted_completion_ms": null}
+{"timestamp": 1793522479.384622, "outcome": "ok", "status": 200, "queue_wait": 1.439503, "service_time": 0.267314, "total_latency": 1.706817, "sla_budget_ms": 6000, "predicted_completion_ms": null}

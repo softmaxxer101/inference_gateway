@@ -1,0 +1,545 @@
+{
+  "timestamp_utc": "2026-11-01T13:31:50.887191+00:00",
+  "configuration": {
+    "max_active": 1,
+    "max_queue": 9,
+    "requests_per_trial": 10,
+    "trials": 3,
+    "sla_budget_ms": 2000
+  },
+  "capacity_based": [
+    {
+      "trial": 1,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 10
+        },
+        "successful_requests": 10,
+        "rejected_429": 0,
+        "rejection_reasons": {},
+        "acceptance_rate": 1.0,
+        "success_rate": 1.0,
+        "median_latency_seconds": 2.3186,
+        "p95_latency_seconds": 3.3294,
+        "max_latency_seconds": 3.3294
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 10,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 0,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 0,
+        "sla_completed_within_budget": 0,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 10,
+        "estimated_service_time_seconds": -0.9994
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.9607,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.2571,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.5935,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.8289,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.0685,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.5686,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.7831,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 3.0026,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 3.1257,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 3.3294,
+          "reason": null
+        }
+      ]
+    },
+    {
+      "trial": 2,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 10
+        },
+        "successful_requests": 10,
+        "rejected_429": 0,
+        "rejection_reasons": {},
+        "acceptance_rate": 1.0,
+        "success_rate": 1.0,
+        "median_latency_seconds": 2.2759,
+        "p95_latency_seconds": 3.5489,
+        "max_latency_seconds": 3.5489
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 10,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 0,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 0,
+        "sla_completed_within_budget": 0,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 10,
+        "estimated_service_time_seconds": 0.024699999999999944
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.4502,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.0338,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 3.2189,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.0127,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.376,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.5391,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.9967,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.7254,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.7762,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 3.5489,
+          "reason": null
+        }
+      ]
+    },
+    {
+      "trial": 3,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 10
+        },
+        "successful_requests": 10,
+        "rejected_429": 0,
+        "rejection_reasons": {},
+        "acceptance_rate": 1.0,
+        "success_rate": 1.0,
+        "median_latency_seconds": 1.8095,
+        "p95_latency_seconds": 2.8613,
+        "max_latency_seconds": 2.8613
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 10,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 0,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 0,
+        "sla_completed_within_budget": 0,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 10,
+        "estimated_service_time_seconds": -0.011700000000000044
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.4418,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 0.9554,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.7099,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.6695,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.1604,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.9495,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.5193,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.4194,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.146,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 2.8613,
+          "reason": null
+        }
+      ]
+    }
+  ],
+  "sla_aware": [
+    {
+      "trial": 1,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 3,
+          "429": 7
+        },
+        "successful_requests": 3,
+        "rejected_429": 7,
+        "rejection_reasons": {
+          "predicted_sla_miss": 7
+        },
+        "acceptance_rate": 0.3,
+        "success_rate": 0.3,
+        "median_latency_seconds": 0.748,
+        "p95_latency_seconds": 0.9865,
+        "max_latency_seconds": 0.9865
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 3,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 7,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 10,
+        "sla_completed_within_budget": 3,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 3,
+        "estimated_service_time_seconds": 0.011700000000000044
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.5752,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 0.748,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0081,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0051,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 200,
+          "latency_seconds": 0.9865,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0053,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0062,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0038,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0054,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0079,
+          "reason": "predicted_sla_miss"
+        }
+      ]
+    },
+    {
+      "trial": 2,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 3,
+          "429": 7
+        },
+        "successful_requests": 3,
+        "rejected_429": 7,
+        "rejection_reasons": {
+          "predicted_sla_miss": 7
+        },
+        "acceptance_rate": 0.3,
+        "success_rate": 0.3,
+        "median_latency_seconds": 0.5597,
+        "p95_latency_seconds": 0.8441,
+        "max_latency_seconds": 0.8441
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 3,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 7,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 10,
+        "sla_completed_within_budget": 3,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 3,
+        "estimated_service_time_seconds": 0.0
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.3606,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 0.5597,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0104,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0049,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 200,
+          "latency_seconds": 0.8441,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0057,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0091,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0035,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0061,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0068,
+          "reason": "predicted_sla_miss"
+        }
+      ]
+    },
+    {
+      "trial": 3,
+      "summary": {
+        "total_requests": 10,
+        "status_counts": {
+          "200": 3,
+          "429": 7
+        },
+        "successful_requests": 3,
+        "rejected_429": 7,
+        "rejection_reasons": {
+          "predicted_sla_miss": 7
+        },
+        "acceptance_rate": 0.3,
+        "success_rate": 0.3,
+        "median_latency_seconds": 1.08,
+        "p95_latency_seconds": 1.3946,
+        "max_latency_seconds": 1.3946
+      },
+      "gateway_metric_delta": {
+        "received": 10,
+        "completed": 3,
+        "rejected_queue_full": 0,
+        "rejected_deadline": 0,
+        "rejected_sla": 7,
+        "upstream_timeout": 0,
+        "upstream_error": 0,
+        "sla_requests": 10,
+        "sla_completed_within_budget": 3,
+        "sla_completed_over_budget": 0,
+        "waiting_now": 0,
+        "active_now": 0,
+        "max_active": 0,
+        "max_queue": 0,
+        "service_time_samples": 3,
+        "estimated_service_time_seconds": 0.0464
+      },
+      "responses": [
+        {
+          "status": 200,
+          "latency_seconds": 0.6995,
+          "reason": null
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.08,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0074,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0053,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 200,
+          "latency_seconds": 1.3946,
+          "reason": null
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0053,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0064,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.004,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0055,
+          "reason": "predicted_sla_miss"
+        },
+        {
+          "status": 429,
+          "latency_seconds": 0.0067,
+          "reason": "predicted_sla_miss"
+        }
+      ]
+    }
+  ]
+}

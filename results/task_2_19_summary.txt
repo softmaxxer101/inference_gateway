@@ -1,0 +1,62 @@
+===== FINAL RESULT FILES =====
+-rw-r--r-- 1 alis alis    31 Nov  1 15:38 results/task_2_19_summary.txt
+-rw-r--r-- 1 alis alis    99 Nov  1 15:38 results/task_2_18_sla_output.txt
+-rw-r--r-- 1 alis alis   118 Nov  1 15:38 results/task_2_18_baseline_output.txt
+-rw-r--r-- 1 alis alis   966 Nov  1 15:38 results/task_2_14_output.txt
+-rw-r--r-- 1 alis alis  7295 Nov  1 15:38 results/sla_experiments_20261101T153753Z.json
+-rw-r--r-- 1 alis alis 13168 Nov  1 15:27 results/admission_comparison_20261101T152713Z.json
+-rw-r--r-- 1 alis alis  4985 Nov  1 15:27 results/task_2_15_2_16_output.txt
+-rw-r--r-- 1 alis alis  2921 Nov  1 15:27 results/task_2_17_output.txt
+-rw-r--r-- 1 alis alis 22616 Nov  1 15:27 results/sla_experiments_20261101T152637Z.json
+-rw-r--r-- 1 alis alis 13260 Nov  1 13:36 results/admission_comparison_reverse_20261101T133620Z.json
+-rw-r--r-- 1 alis alis 13194 Nov  1 13:31 results/admission_comparison_20261101T133119Z.json
+-rw-r--r-- 1 alis alis 23182 Nov  1 12:46 results/sla_experiments_20261101T124557Z.json
+===== SLA EXPERIMENT OUTPUT =====
+Gateway health check passed.
+
+Budget=10000 ms | Trial 1/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.821,
+  "successful_latency_p95_seconds": 3.4701,
+  "successful_latency_max_seconds": 3.4701
+}
+
+Budget=10000 ms | Trial 2/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.5252,
+  "successful_latency_p95_seconds": 2.6669,
+  "successful_latency_max_seconds": 2.6669
+}
+
+Budget=10000 ms | Trial 3/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.2391,
+  "successful_latency_p95_seconds": 2.5939,
+  "successful_latency_max_seconds": 2.5939
+}
+
+All trials finished. Results saved to: results/sla_experiments_20261101T153753Z.json
+===== BASELINE OUTPUT =====
+
+Sent 10 simultaneous requests
+SLA budget: disabled
+Status counts: {200: 10}
+200s: median 1.85s, p95 3.14s, max 3.14s
+===== SLA-AWARE OUTPUT =====
+Sent 10 simultaneous requests -> status counts: {200: 10}
+200s: median 1.18s, p95 2.28s, max 2.28s

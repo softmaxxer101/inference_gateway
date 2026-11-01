@@ -1,0 +1,5 @@
+
+Sent 10 simultaneous requests
+SLA budget: disabled
+Status counts: {200: 10}
+200s: median 1.85s, p95 3.14s, max 3.14s

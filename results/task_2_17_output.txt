@@ -1,0 +1,129 @@
+Gateway health check passed.
+
+Budget=2000 ms | Trial 1/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "429": 9,
+    "200": 1
+  },
+  "success_rate": 0.1,
+  "rejection_reasons": {
+    "predicted_sla_miss": 9
+  },
+  "successful_latency_median_seconds": 0.6236,
+  "successful_latency_p95_seconds": 0.6236,
+  "successful_latency_max_seconds": 0.6236
+}
+
+Budget=2000 ms | Trial 2/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 3,
+    "429": 7
+  },
+  "success_rate": 0.3,
+  "rejection_reasons": {
+    "predicted_sla_miss": 7
+  },
+  "successful_latency_median_seconds": 0.794,
+  "successful_latency_p95_seconds": 1.1831,
+  "successful_latency_max_seconds": 1.1831
+}
+
+Budget=2000 ms | Trial 3/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 3,
+    "429": 7
+  },
+  "success_rate": 0.3,
+  "rejection_reasons": {
+    "predicted_sla_miss": 7
+  },
+  "successful_latency_median_seconds": 0.7464,
+  "successful_latency_p95_seconds": 0.9066,
+  "successful_latency_max_seconds": 0.9066
+}
+
+Budget=4000 ms | Trial 1/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 6,
+    "429": 4
+  },
+  "success_rate": 0.6,
+  "rejection_reasons": {
+    "predicted_sla_miss": 4
+  },
+  "successful_latency_median_seconds": 1.2093,
+  "successful_latency_p95_seconds": 1.8859,
+  "successful_latency_max_seconds": 1.8859
+}
+
+Budget=4000 ms | Trial 2/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 7,
+    "429": 3
+  },
+  "success_rate": 0.7,
+  "rejection_reasons": {
+    "predicted_sla_miss": 3
+  },
+  "successful_latency_median_seconds": 1.3893,
+  "successful_latency_p95_seconds": 2.1617,
+  "successful_latency_max_seconds": 2.1617
+}
+
+Budget=4000 ms | Trial 3/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 8,
+    "429": 2
+  },
+  "success_rate": 0.8,
+  "rejection_reasons": {
+    "predicted_sla_miss": 2
+  },
+  "successful_latency_median_seconds": 1.4224,
+  "successful_latency_p95_seconds": 2.16,
+  "successful_latency_max_seconds": 2.16
+}
+
+Budget=6000 ms | Trial 1/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.5704,
+  "successful_latency_p95_seconds": 2.8653,
+  "successful_latency_max_seconds": 2.8653
+}
+
+Budget=6000 ms | Trial 2/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.6684,
+  "successful_latency_p95_seconds": 2.9874,
+  "successful_latency_max_seconds": 2.9874
+}
+
+Budget=6000 ms | Trial 3/3 | 10 simultaneous requests
+{
+  "status_counts": {
+    "200": 10
+  },
+  "success_rate": 1.0,
+  "rejection_reasons": {},
+  "successful_latency_median_seconds": 1.3887,
+  "successful_latency_p95_seconds": 2.6944,
+  "successful_latency_max_seconds": 2.6944
+}
+
+All trials finished. Results saved to: results/sla_experiments_20261101T152637Z.json

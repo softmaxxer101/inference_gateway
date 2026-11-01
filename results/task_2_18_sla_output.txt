@@ -1,0 +1,2 @@
+Sent 10 simultaneous requests -> status counts: {200: 10}
+200s: median 1.18s, p95 2.28s, max 2.28s
