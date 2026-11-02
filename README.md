@@ -536,4 +536,4 @@ This is a hands-on learning project focused on the engineering problems surround
 
 
 
-The goal is to develop a practical understanding of inference infrastructure through implementation, experimentation, and measurement.
+The goal is to develop a practical understanding of inference infrastructure through implementation, experimentation, and measurements.
